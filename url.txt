@@ -1,0 +1,4 @@
+https://webdesigntips.blog/web-design/javascript/using-strapi-for-node-js-content-management-with-a-react-spa/
+
+mongo:db:
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
